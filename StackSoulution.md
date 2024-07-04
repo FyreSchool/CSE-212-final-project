@@ -15,7 +15,7 @@ public class Solution {
             }
             result[i] = stack.Count == 0 ? -1 : stack.Peek();
             stack.Push(nums[i]);
-        }
+        } 
 
         return result;
     }

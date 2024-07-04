@@ -4,7 +4,7 @@ Imagine you have a pile of plates stacked one on top of the other. If you want t
 
 In C#, a stack works the same way. It's a way to store things where you can only add or take things from the top. When you add something, it's called "pushing," and when you take something, it's called "popping." You always `push` or `pop` from the top, just like with the plates.
 
-Stack is a collection that stores elements in a Last-In-First-Out (LIFO). Like was said above we can't access an item in the stack that is not on the top of the stack. For example if we wanted to grab a plate that fourth from the top we would first have to remove all three plates that were above it one at a time to reach that plate.
+Stack is a collection that stores elements in a Last-In-First-Out (LIFO). Like was said above we can't access an item in the stack that is not on the top of the stack. For example if we wanted to grab a plate that fourth from the top we would first have to remove all three plates that were above it one at a time to reach that plate. 
 
 # Stack Operations
 

@@ -1,10 +1,10 @@
 # Sets
 
-Imagine you have a box of crayons. Each crayon has a unique color. Now, this box of crayons is like a `set` in C#. In a `set`, just like in our box of crayons, each item is unique. If you try to put another crayon of the same color into the box, it won’t work because that color is already there.
+Imagine you have a box of crayons. Each crayon has a unique color. Now, this box of crayons is like a `set` in C#. In a `set`, just like in our box of crayons, each item is unique. If you try to put another crayon of the same color into the box, it won’t work because that color is already there.  
 
 We can solve a lot of problems that we might come across in our daily lives with `sets`. Let’s say you are making a list of people that you want to invite to a party. After you are finished with your list you ask your friend if they have people that they want to invite to the party. You add the people that your friend says to the list. What happens if your friend says the name of someone that you already had on our list. You’re not going to add them twice to the list but just keep the name on from the first time that you added it.
-
-This is exactly how `sets` can be helpful in this situation. When you add your friend's suggestions to your initial guest list, the `set` will automatically prevent duplicate entries. It checks if the name your friend suggests already exists in the `set` (like checking if the color crayon is already in the box). If it is, the set simply ignores the duplicate and moves on to the next suggestion. This ensures you have a final guest list with unique invitees, avoiding accidental double invites and saving you the hassle of keeping track of who's already on the list.
+ 
+This is exactly how `sets` can be helpful in this situation. When you add your friend's suggestions to your initial guest list, the `set` will automatically prevent duplicate entries. It checks if the name your friend suggests already exists in the `set` (like checking if the color crayon is already in the box). If it is, the set simply ignores the duplicate and moves on to the next suggestion. This ensures you have a final guest list with unique invitees, avoiding accidental double invites and saving you the hassle of keeping track of who's already on the list. 
 
 
 # Set Operations
