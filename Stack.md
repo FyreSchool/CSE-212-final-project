@@ -247,9 +247,9 @@ class Program
 }
 ```
 # Problem to Solve
-## Example Problem: Next Greater Element
+### Next Greater Element
 
-### Problem Statement
+
 Given an array of integers, find the next greater element for each element in the array. The next greater element for an element `x` is the first greater element on the right side of `x` in the array. If there is no greater element, then the next greater element for `x` is -1.
 
 ### Example Input and Output

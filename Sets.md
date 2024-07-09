@@ -281,7 +281,7 @@ class Program
 
     static void Main()
     {
-        int[] array = { 1, 2, 2, 3, 4, 4, 5, 6, 6, 7 };
+        int[] array = { 1, 2, 2, 3, 4, 4, 5, 6, 6, 7 }; 
         List<int> uniqueElements = FindUniqueElements(array);
 
         Console.WriteLine("Unique elements in the array:");
@@ -292,3 +292,32 @@ class Program
     }
 }
 ```
+
+# Problem to Solve
+
+### Find Common Elements in Two Arrays
+
+Suppose you are given two arrays of integers, and you need to find the common elements between them. The challenge is to do this efficiently, leveraging the properties of sets to handle the task.
+
+Given two integer arrays, array1 and array2, write a C# program to find and print all common elements between these two arrays. Each element in the resulting set of common elements should be unique (i.e., no duplicates).
+
+Example Input and Output
+Input:
+``` csharp
+//input
+int[] array1 = { 4, 5, 2, 10 };
+int[] array2 = { 5, 10, 10, -1 };
+
+//Output:
+//Common elements between the two arrays:
+5
+10
+//Input:
+
+int[] array1 = { 3, 2, 1 };
+int[] array2 = { -1, -1, -1 };
+
+//Output:
+
+//Common elements between the two arrays:
+//(No common elements)

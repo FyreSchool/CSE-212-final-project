@@ -1,5 +1,5 @@
 # Code Solution
-This is the code solution for the problem to solve in the stacks
+This is the code solution for the problem to solve in the stacks tutorial
 ```csharp
 using System;
 using System.Collections.Generic;
