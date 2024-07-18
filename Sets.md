@@ -321,3 +321,7 @@ int[] array2 = { -1, -1, -1 };
 
 //Common elements between the two arrays:
 //(No common elements)
+
+```
+### Solution
+* [Solution](SetSolution.md)

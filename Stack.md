@@ -260,6 +260,8 @@ Given an array of integers, find the next greater element for each element in th
 - **Output:** `[-1, -1, -1]`
 
 
+### Solution
+* [Solution](StackSolution.md)
 
 
 
