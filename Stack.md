@@ -264,4 +264,4 @@ Given an array of integers, find the next greater element for each element in th
 * [Solution](StackSolution.md)
 
 
-
+[Back to welcome page](Welcome.md)
